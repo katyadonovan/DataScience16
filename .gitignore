@@ -1,3 +1,4 @@
 *.DS_Store
 smile_dataset.mat
+*.pyc
 
